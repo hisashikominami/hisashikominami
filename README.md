@@ -10,7 +10,7 @@ My interests sit at the intersection of **data science, agriculture, and consume
 - **Machine Learning:** Random Forest, XGBoost, SVM, Logistic Regression, LDA/QDA
 - **Statistical Methods:** Regression, model comparison, cross-validation, Monte Carlo simulation
 - **Analytics Applications:** Marketing analytics, customer insights, experimentation 
-- **Tools:** Git, GitHub, R Markdown, Jupyter
+- **Tools:** Git, GitHub, Python, Jupyter, RStudio
 - **Data Visualization:** ggplot2, matplotlib
 
 ## Selected Projects
