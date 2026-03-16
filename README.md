@@ -16,10 +16,12 @@ My interests sit at the intersection of **data science, agriculture, and consume
 ## Selected Projects
 
 - **Rice Variety Classification**  
-  Comparison of statistical and machine learning models for classifying rice varieties using morphological features.
+  Comparison of statistical and machine learning models for classifying Turkish rice varieties using morphological features.
+  https://github.com/hisashikominami/rice-variety-classification
 
 - **Inventory Optimization Under Demand Uncertainty**  
   Monte Carlo simulation and newsvendor modeling to evaluate ordering policies under uncertain demand.
+  https://github.com/hisashikominami/inventory-optimization-under-uncertainty
 
 ## Interests
 
