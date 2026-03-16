@@ -31,4 +31,4 @@ My interests sit at the intersection of **data science, agriculture, and consume
 ## Contact
 
 📧 Email: hisashikominami@gmail.com  
-🔗 LinkedIn: (add your LinkedIn here)
+🔗 LinkedIn: (www.linkedin.com/in/hisashi-kominami)
