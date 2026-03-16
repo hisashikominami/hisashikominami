@@ -1,14 +1,15 @@
 # Hi, I'm Hisashi Kominami
 
-I am an aspiring data scientist with a background in agriculture, analytics, and applied statistics. I recently completed the **M.S. in Analytics (OMSA)** from **Georgia Tech**, where I focused on statistical modeling, machine learning, and data-driven decision making.
+I am a data scientist with a background in agriculture, analytics, and applied statistics. I recently completed the **M.S. in Analytics (OMSA)** from **Georgia Tech**, where I focused on statistical modeling, machine learning, and simulation-based decision making.
 
-My interests sit at the intersection of **data science, agriculture, and real-world problem solving**, including applications in food systems, supply chains, and environmental sustainability.
+My interests sit at the intersection of **data science, agriculture, and consumer products**, with applications in marketing analytics, supply chains, and food systems. In addition to my analytics training, I have completed coursework in **digital marketing**, which informs my interest in applying data science to customer insights, marketing performance, and data-driven business strategy.
 
 ## Skills & Tools
 
 - **Languages:** Python, R, SQL
 - **Machine Learning:** Random Forest, XGBoost, SVM, Logistic Regression, LDA/QDA
 - **Statistical Methods:** Regression, model comparison, cross-validation, Monte Carlo simulation
+- **Analytics Applications:** Marketing analytics, customer insights, experimentation 
 - **Tools:** Git, GitHub, R Markdown, Jupyter
 - **Data Visualization:** ggplot2, matplotlib
 
@@ -22,10 +23,10 @@ My interests sit at the intersection of **data science, agriculture, and real-wo
 
 ## Interests
 
-- Agricultural analytics
-- Food system optimization
+- Marketing analytics and customer insights
+- Agricultural and food systems analytics
+- Data-driven decision making in consumer products
 - Applied machine learning
-- Data-driven decision making
 
 ## Contact
 
