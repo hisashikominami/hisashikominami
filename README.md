@@ -1,17 +1,41 @@
 # Hi, I'm Hisashi Kominami
 
-I am a data scientist with a background in agriculture, analytics, and applied statistics. I recently completed the **M.S. in Analytics (OMSA)** from **Georgia Tech**, where I focused on statistical modeling, machine learning, and simulation-based decision making.
+I am an environmental analytics and data science professional with graduate degrees in Analytics (Georgia Tech) and Plant & Soil Science (University of Vermont). My work combines statistical modeling, machine learning, simulation, and data visualization with practical experience in conservation, agriculture, and environmental decision-making.
 
-My interests sit at the intersection of **data science, agriculture, and consumer products**, with applications in marketing analytics, supply chains, and food systems. In addition to my analytics training, I have completed coursework in **digital marketing**, which informs my interest in applying data science to customer insights, marketing performance, and data-driven business strategy.
+Throughout my career, I have worked at the intersection of data, science, and real-world implementation—helping translate complex information into actionable insights for stakeholders, organizations, and communities. My interests span environmental sustainability, renewable energy, agriculture, operations, and business analytics, with a focus on developing analytical tools that support better decisions.
 
 ## Skills & Tools
+### Programming
+- Python
+- SQL
+- R
+  
+### Analytics & Statistics
+- Statistical Modeling
+- Machine Learning
+- Regression Analysis
+- Cross-Validation
+- Monte Carlo Simulation
+- Exploratory Data Analysis
 
-- **Languages:** Python, R, SQL
-- **Machine Learning:** Random Forest, XGBoost, SVM, Logistic Regression, LDA/QDA
-- **Statistical Methods:** Regression, model comparison, cross-validation, Monte Carlo simulation
-- **Analytics Applications:** Marketing analytics, customer insights, experimentation 
-- **Tools:** Git, GitHub, Python, Jupyter, RStudio
-- **Data Visualization:** ggplot2, matplotlib
+### Machine Learning
+- Random Forest
+- XGBoost
+- Support Vector Machines
+- Logistic Regression
+- Linear & Quadratic Discriminant Analysis
+  
+### Data Visualization
+- Tableau
+- matplotlib
+- ggplot2
+  
+### Development Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+- RStudio
 
 ## Selected Projects
 
@@ -23,12 +47,17 @@ My interests sit at the intersection of **data science, agriculture, and consume
   Monte Carlo simulation and newsvendor modeling to evaluate ordering policies under uncertain demand.
   https://github.com/hisashikominami/inventory-optimization-under-uncertainty
 
-## Interests
+## Professional Interests
 
-- Marketing analytics and customer insights
-- Agricultural and food systems analytics
-- Data-driven decision making in consumer products
-- Applied machine learning
+- Environmental Analytics
+- Conservation Science
+- Spatial & Geospatial Data
+- Sustainable Agriculture
+- Renewable Energy
+- Operations Research & Decision Support
+- Statistical Modeling
+- Machine Learning
+- Data Visualization
 
 ## Contact
 
