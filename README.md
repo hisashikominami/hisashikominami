@@ -1,8 +1,10 @@
 # Hi, I'm Hisashi Kominami
 
-I am an environmental analytics and data science professional with graduate degrees in Analytics (Georgia Tech) and Plant & Soil Science (University of Vermont). My work combines statistical modeling, machine learning, simulation, and data visualization with practical experience in conservation, agriculture, and environmental decision-making.
+I believe the best analytical work begins long before writing code or building models. It begins by understanding the problem, collaborating with stakeholders to define meaningful measures of success, and asking the right questions before searching for answers.
 
-Throughout my career, I have worked at the intersection of data, science, and real-world implementation—helping translate complex information into actionable insights for stakeholders, organizations, and communities. My interests span environmental sustainability, renewable energy, agriculture, operations, and business analytics, with a focus on developing analytical tools that support better decisions.
+Throughout my career, I've partnered with scientists, engineers, healthcare professionals, agricultural producers, business leaders, and government agencies to solve complex organizational problems. Whether redesigning operational workflows, developing executive dashboards, evaluating conservation programs, or building predictive models, I use analytics to better understand systems, measure performance, uncover opportunities for improvement, and support informed decision-making.
+
+My graduate education in Analytics at Georgia Tech and Plant & Soil Science at the University of Vermont has given me a multidisciplinary perspective that blends business analysis, statistical modeling, machine learning, simulation, and data visualization with a systems-oriented approach to solving real-world problems.
 
 ## Skills & Tools
 ### Programming
@@ -10,14 +12,23 @@ Throughout my career, I have worked at the intersection of data, science, and re
 - SQL
 - R
   
+### Business Analysis & Process Improvement
+- Business Process Analysis
+- Requirements Gathering
+- Process Mapping
+- Workflow Analysis
+- Performance Measurement
+- Root Cause Analysis
+- Stakeholder Engagement
+
 ### Analytics & Statistics
 - Statistical Modeling
 - Machine Learning
 - Regression Analysis
-- Cross-Validation
+- Cross Validation
 - Monte Carlo Simulation
 - Exploratory Data Analysis
-
+  
 ### Machine Learning
 - Random Forest
 - XGBoost
@@ -44,20 +55,22 @@ Throughout my career, I have worked at the intersection of data, science, and re
   https://github.com/hisashikominami/rice-variety-classification
 
 - **Inventory Optimization Under Demand Uncertainty**  
-  Monte Carlo simulation and newsvendor modeling to evaluate ordering policies under uncertain demand.
+  Applied Monte Carlo simulation and the newsvendor framework to optimize inventory decisions under uncertain demand, balancing product availability with waste while evaluating business trade-offs.
   https://github.com/hisashikominami/inventory-optimization-under-uncertainty
 
-## Professional Interests
+## Areas of Interests
 
-- Environmental Analytics
-- Conservation Science
-- Spatial & Geospatial Data
-- Sustainable Agriculture
+- Business Process Improvement
+- Business Analysis
+- Applied Analytics
+- Decision Support
+- Performance Measurement
+- Continuous Improvement
+- Environmental Sustainability
 - Renewable Energy
-- Operations Research & Decision Support
+- Sustainable Agriculture
 - Statistical Modeling
 - Machine Learning
-- Data Visualization
 
 ## Contact
 
